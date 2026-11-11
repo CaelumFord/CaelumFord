@@ -40,3 +40,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 -  <a href="https://github.com/CaelumFord/Home-Lab/tree/main">Home Lab</a>
+
+## Lab Writeups
+-  <a href="https://github.com/CaelumFord/Lab-Writeups/tree/main">Lab Writeups</a>
