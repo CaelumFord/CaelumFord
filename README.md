@@ -25,11 +25,13 @@ I discovered my passion for cybersecurity whilst originally studying Biochemistr
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
+Nmap, etc
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+Google Cybersecurity Professional Certificate. 
 
 ## Projects
 -  <a href="https://github.com/CaelumFord/Home-Lab/tree/main">Home Lab</a>
