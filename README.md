@@ -34,5 +34,5 @@ I discovered my passion for cybersecurity whilst originally studying Biochemistr
 ## Projects
 -  <a href="https://github.com/CaelumFord/Home-Lab/tree/main">Home Lab</a>
 
-## Lab Writeups
+## Lab Writeups (HTB, BTL, THM, etc)
 -  <a href="https://github.com/CaelumFord/Lab-Writeups/tree/main">Lab Writeups</a>
