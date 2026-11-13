@@ -1,7 +1,7 @@
 # Hello, I'm Caelum.
 <a href="https://linkedin.com/in/caelum-ford-4a338a311"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have recently passed my CompTIA Security+ Certificate and am now in freefall down the Cybersecurity rabbithole. 
+I have recently passed my CompTIA Security+ Certificate and am now in freefall down the Cybersecurity rabbit hole. 
 
 ## Objective
 
