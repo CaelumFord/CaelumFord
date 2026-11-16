@@ -18,23 +18,23 @@ I discovered my passion for cybersecurity whilst originally studying Biochemistr
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-white?style=for-the-badge" />
 </div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-blue?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
-Nmap, etc
+
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cybersecurity_Professional_Certificate-white?style=for-the-badge&logo=google" />
 </div>
-Google Cybersecurity Professional Certificate. 
 
 ## Projects
 -  <a href="https://github.com/CaelumFord/Home-Lab/tree/main">Home Lab</a>
 
-## Lab Writeups (HTB, BTL, THM, etc)
--  <a href="https://github.com/CaelumFord/Lab-Writeups/tree/main">Lab Writeups</a>
